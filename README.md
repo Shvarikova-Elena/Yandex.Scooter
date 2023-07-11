@@ -44,10 +44,15 @@ Mindmap можно посмотреть по [ссылке](https://drive.google
 
 **4. Баг-репорты** <br />
 После проведения тестирования приложения Яндекс Самокат было обнаружено порядка 50 багов. Все баг-репорты были заведены в YouTrack.<br />
-Примеры баг-репортов:<br />
+Примеры оформления баг-репортов:<br />
 	[для веб-приложения](https://elena-s.youtrack.cloud/issue/59M-84/Mozhno-vybrat-proshedshuyu-datu-v-pole-Kogda-privezti-samokat-na-ekrane-Sdelat-zakaz-v-prilozhenii-Yandeks-Samokat)<br />
 	[для мобильного приложения](https://elena-s.youtrack.cloud/issue/59M-119/Vsplyvayushee-okno-soderzhit-tekst-Net-dostupa-k-internetu-pri-otsutstvii-internet-soedineniya-v-mobilnom-prilozhenii-Yandeks)<br />
 	[для API](https://elena-s.youtrack.cloud/issue/59M-122/Uspeshnoe-sozdanie-uchetnoj-zapisi-pri-otpravke-api-v1-courier-zaprosa-v-pole-login-esli-vvesti-nekorrektnye-dannye)<br />.
+
+**5. Работа в Charles** <br />
+Солгасно требованиям в приложение была добавлена фича (добавлен пятый статус), которую реализовали только во фронтенде, бэкенд ещё не был готов.<br />
+Задача: протестировать реализацию на фронтенде, не дожидаясь бэкенда.<br />
+Для автоматического перехвата и изменения ответа от бэкенда я использовала функцию Map Local в Charles. таким образом, мне удалось изменить статус заказа и протестировать его, в результате чего был обнаружен [баг](https://elena-s.youtrack.cloud/issue/59M-107/Nadpis-Arenda-zakonchitsya...-v-pyatom-statuse-kogda-vremya-arendy-uzhe-zakonchilos-na-ekrane-Status-zakaza-v-prilozhenii).<br />
 
 
 

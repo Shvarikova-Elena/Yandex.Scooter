@@ -37,11 +37,17 @@ Mindmap можно посмотреть по [ссылке](https://drive.google
 *2.2 Составление тест-кейсов* <br />
 
 Пример составления тест-кейса очень хорошо представлен при тестировании мобильной версии приложения Яндекс Самокат.<br /> [Здесь](https://docs.google.com/spreadsheets/d/18hV4HR-UZvtfX5aoAEnhuhZeLBvwdoAAsKLePHcO2uA/edit?usp=sharing) можно посмотреть тест-кейсы, составленные при тестировании нотификации и отсутствии интернет-соединения.<br />
+Тестирование мобильной версии приложения Яндекс самокат в проводила в эмуляторе Android Studio.<br />
 
 **3. Тестирование API** <br />
 Документация к API была представлена в Apidoc ![фрагмент документа](https://github.com/Shvarikova-Elena/first-project/blob/main/pics/Apidoc.jpg) <br /> Тестирование API проводила через Postman. Чек-лист и результаты выполнения тестов API приложения Яндекс Самокат можно посмотреть по [ссылке](https://docs.google.com/spreadsheets/d/18hV4HR-UZvtfX5aoAEnhuhZeLBvwdoAAsKLePHcO2uA/edit?usp=sharing)<br />
 
-
+**4. Баг-репорты** <br />
+После проведения тестирования приложения Яндекс Самокат было обнаружено порядка 50 багов. Все баг-репорты были заведены в YouTrack.<br />
+Примеры баг-репортов:<br />
+	[для веб-приложения](https://elena-s.youtrack.cloud/issue/59M-84/Mozhno-vybrat-proshedshuyu-datu-v-pole-Kogda-privezti-samokat-na-ekrane-Sdelat-zakaz-v-prilozhenii-Yandeks-Samokat)<br />
+	[для мобильного приложения](https://elena-s.youtrack.cloud/issue/59M-119/Vsplyvayushee-okno-soderzhit-tekst-Net-dostupa-k-internetu-pri-otsutstvii-internet-soedineniya-v-mobilnom-prilozhenii-Yandeks)<br />
+	[для API](https://elena-s.youtrack.cloud/issue/59M-122/Uspeshnoe-sozdanie-uchetnoj-zapisi-pri-otpravke-api-v1-courier-zaprosa-v-pole-login-esli-vvesti-nekorrektnye-dannye)<br />.
 
 
 

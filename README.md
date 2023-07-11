@@ -36,7 +36,7 @@ Mindmap можно посмотреть по [ссылке](https://drive.google
 Пример составления тест-кейса очень хорошо представлен при тестировании мобильной версии приложения Яндекс Самокат.<br /> [Здесь](https://docs.google.com/spreadsheets/d/18hV4HR-UZvtfX5aoAEnhuhZeLBvwdoAAsKLePHcO2uA/edit?usp=sharing) можно посмотреть тест-кейсы, составленные при тестировании нотификации и отсутствии интернет-соединения.<br />
 
 **3. Тестирование API** <br />
-Документация к API была представлена в ![Apidoc](https://github.com/Shvarikova-Elena/first-project/blob/main/pics/Apidoc.jpg). Тестирование API проводила через Postman.
+Документация к API была представлена в Apidoc (https://github.com/Shvarikova-Elena/first-project/blob/main/pics/Apidoc.jpg). Тестирование API проводила через Postman.
 
 
 

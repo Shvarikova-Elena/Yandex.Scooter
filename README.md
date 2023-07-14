@@ -11,7 +11,7 @@
 Приложение Яндекс Самокат - это сервис, который позволяет арендовать электрический самокат на несколько дней.<br />
 
 Так выглядит форма "Заказ самоката": ![Форма заказа самоката](https://github.com/Shvarikova-Elena/first-project/blob/main/pics/Часть%20формы_Заказ%20самоката.jpg)<br />
-Так выглядит форма "Статус заказа": ![Формы "Статус заказа"](https://github.com/Shvarikova-Elena/first-project/blob/main/pics/Форма_Статус%20заказа.jpg)<br />
+Так выглядит форма "Статус заказа": ![Форма Статус заказа](https://github.com/Shvarikova-Elena/first-project/blob/main/pics/Форма_Статус%20заказа.jpg)<br />
 
 <a name="headers1"/>**1. Тест-анализ** <br />
 Задача: Декомпозировать и визуализировать требования, исключить серые зоны<br />
@@ -41,7 +41,7 @@ Mindmap можно посмотреть по [ссылке](https://drive.google
 Тестирование мобильной версии приложения Яндекс самокат в проводила в эмуляторе Android Studio.<br />
 
 <a name="headers3"/>**3. Тестирование API** <br />
-Документация к API была представлена в Apidoc ![фрагмент документа](https://github.com/Shvarikova-Elena/first-project/blob/main/pics/Apidoc.jpg) <br /> Тестирование API проводила через Postman. Чек-лист и результаты выполнения тестов API приложения Яндекс Самокат можно посмотреть по [ссылке](https://docs.google.com/spreadsheets/d/18hV4HR-UZvtfX5aoAEnhuhZeLBvwdoAAsKLePHcO2uA/edit?usp=sharing)<br />
+Документация к API была представлена в Apidoc ![фрагмент документа](https://github.com/Shvarikova-Elena/Yandex.Scooter/blob/main/pics/Apidoc.jpg) <br /> Тестирование API проводила через Postman. Чек-лист и результаты выполнения тестов API приложения Яндекс Самокат можно посмотреть по [ссылке](https://docs.google.com/spreadsheets/d/18hV4HR-UZvtfX5aoAEnhuhZeLBvwdoAAsKLePHcO2uA/edit?usp=sharing)<br />
 
 <a name="headers4"/>**4. Баг-репорты** <br />
 После проведения тестирования приложения Яндекс Самокат было обнаружено порядка 50 багов. Все баг-репорты были заведены в YouTrack.<br />

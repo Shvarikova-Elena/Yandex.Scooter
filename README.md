@@ -48,7 +48,7 @@ Mindmap можно посмотреть по [ссылке](https://drive.google
 <img src="https://github.com/Shvarikova-Elena/Yandex.Scooter/blob/main/pics/Apidoc.jpg" width=70% height=70%> <br /> 
 Тестирование API проводила через Postman. Чек-лист и результаты выполнения тестов API приложения Яндекс Самокат можно посмотреть по [ссылке](https://docs.google.com/spreadsheets/d/18hV4HR-UZvtfX5aoAEnhuhZeLBvwdoAAsKLePHcO2uA/edit?usp=sharing)<br />
 
-[Пример](https://github.com/Shvarikova-Elena/Yandex.Scooter/blob/main/pics/Apidoc.jpg)
+![Пример](https://github.com/Shvarikova-Elena/Yandex.Scooter/blob/main/pics/Apidoc.jpg)
 
 <a name="headers4"/>**4. Баг-репорты** <br />
 После проведения тестирования приложения Яндекс Самокат было обнаружено порядка 50 багов. Все баг-репорты были заведены в YouTrack.<br />

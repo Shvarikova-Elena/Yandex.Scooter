@@ -10,9 +10,11 @@
 
 Приложение Яндекс Самокат - это сервис, который позволяет арендовать электрический самокат на несколько дней.<br />
 **Так выглядит форма "Заказ самоката":**<br />
+
 <img src="https://github.com/Shvarikova-Elena/Yandex.Scooter/blob/main/pics/Часть%20формы_Заказ%20самоката.jpg" width=50% height=50%> <br />
 **Так выглядит форма "Статус заказа":**<br />
-<img src="https://github.com/Shvarikova-Elena/Yandex.Scooter/blob/main/pics/Форма_Статус%20заказа.jpg" width=50% height=50%> <br />
+
+<img src="https://github.com/Shvarikova-Elena/Yandex.Scooter/blob/main/pics/Форма_Статус%20заказа.jpg" width=70% height=70%> <br />
 
 <a name="headers1"/>**1. Тест-анализ** <br />
 Задача: Декомпозировать и визуализировать требования, исключить серые зоны<br />

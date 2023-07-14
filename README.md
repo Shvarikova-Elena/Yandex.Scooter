@@ -31,9 +31,9 @@ Mindmap можно посмотреть по [ссылке](https://drive.google
 
 *2.1 Составление чек-листов* <br />
 
-Пример составления чек-листа для формы "Статус заказа" [здесь](https://docs.google.com/spreadsheets/d/18hV4HR-UZvtfX5aoAEnhuhZeLBvwdoAAsKLePHcO2uA/edit?usp=sharing)<br />
+Пример составления чек-листа для формы "Статус заказа" [здесь](https://docs.google.com/spreadsheets/d/18hV4HR-UZvtfX5aoAEnhuhZeLBvwdoAAsKLePHcO2uA/edit?usp=sharing) <br />
 
-Применение техник тест-дизайна хорошо видно при составлении проверок на валидацию полей для формы заказа самоката. Посмотреть, как я применяла техники тест-дизайна можно, перейдя по [ссылке](https://docs.google.com/spreadsheets/d/18hV4HR-UZvtfX5aoAEnhuhZeLBvwdoAAsKLePHcO2uA/edit?usp=sharing)<br />
+Применение техник тест-дизайна хорошо видно при составлении проверок на валидацию полей для формы заказа самоката. Посмотреть, как я применяла техники тест-дизайна можно, перейдя по [ссылке](https://docs.google.com/spreadsheets/d/18hV4HR-UZvtfX5aoAEnhuhZeLBvwdoAAsKLePHcO2uA/edit?usp=sharing) <br />
 
 *2.2 Составление тест-кейсов* <br />
 
